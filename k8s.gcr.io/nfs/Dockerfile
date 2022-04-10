@@ -1,3 +1,3 @@
-FROM k8s-sigs.io/nfs-subdir-external-provisioner:4.0.16
+FROM k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
-RUN docker search k8s-sigs.io/nfs-subdir-external-provisioner
+RUN docker search k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
