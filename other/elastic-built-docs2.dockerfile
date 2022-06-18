@@ -1,5 +1,5 @@
 FROM alpine:latest
 
 WORKDIR /home
-RUN wget https://codeload.github.com/HB116/kube-mirror/zip/refs/heads/main
+RUN wget -o elastic-built-docs.zip https://github.com/elastic/built-docs/zip/refs/heads/master
 RUN echo "success"
