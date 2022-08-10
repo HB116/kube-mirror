@@ -25,3 +25,11 @@ tektoncd.pipeline.cmd.imagedigestexporter.v0.38.0.dockerfile
 tektoncd.pipeline.cmd.pullrequest-init.v0.38.0.dockerfile
 tektoncd.pipeline.cmd.workingdirinit.v0.38.0.dockerfile
 distroless.busybox.dockerfile
+
+/images/cicd
+
+
+
+tektoncd.pipeline.cmd.gitInit.v0290.dockerfile
+kanikoProject.executor.v151.dockerfile
+library.bash.v514.dockerfile
