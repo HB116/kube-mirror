@@ -30,6 +30,6 @@ distroless.busybox.dockerfile
 
 
 
-tektoncd.pipeline.cmd.gitInit.v0290.dockerfile
-kanikoProject.executor.v151.dockerfile
-library.bash.v514.dockerfile
+registry.cn-shenzhen.aliyuncs.com/hb-team-001/kube-mirror:tektoncd.pipeline.cmd.gitInit.v0290
+registry.cn-shenzhen.aliyuncs.com/hb-team-001/kube-mirror:kanikoProject.executor.v151
+registry.cn-shenzhen.aliyuncs.com/hb-team-001/kube-mirror:library.bash.v514
