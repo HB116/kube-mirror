@@ -1,0 +1,1 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.20.2@sha256:39ad0a7ab4aa7dd866eac30ea38d482db8c79cf487ef445a37303e4f13b5c04e
