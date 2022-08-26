@@ -33,3 +33,9 @@ distroless.busybox.dockerfile
 registry.cn-shenzhen.aliyuncs.com/hb-team-001/kube-mirror:tektoncd.pipeline.cmd.gitInit.v0290
 registry.cn-shenzhen.aliyuncs.com/hb-team-001/kube-mirror:kanikoProject.executor.v151
 registry.cn-shenzhen.aliyuncs.com/hb-team-001/kube-mirror:library.bash.v514
+
+---
+ko://github.com/tektoncd/triggers/examples/v1alpha1/webhook-interceptors
+
+
+tektoncd/triggers/examples/v1alpha1/webhook-interceptors.dockerfile
