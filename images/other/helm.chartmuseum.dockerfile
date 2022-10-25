@@ -1,1 +1,1 @@
-FROM ghcr.io/helm/chartmuseum
+FROM chartmuseum/chartmuseum:latest
