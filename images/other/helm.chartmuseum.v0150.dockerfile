@@ -1,1 +1,1 @@
-FROM chartmuseum/chartmuseum:v0.15.0
+FROM ghcr.io/helm/chartmuseum:v0.15.0
