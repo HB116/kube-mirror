@@ -45,3 +45,7 @@ tektoncd/triggers/examples/v1alpha1/webhook-interceptors.dockerfile
 registry.cn-shenzhen.aliyuncs.com/hb-team-001/kube-mirror:bitnami.sealedSecretsController.v0182
 
 registry.cn-shenzhen.aliyuncs.com/hb-team-001/kube-mirror:alpine.git-kustomize.v2262
+
+---
+
+需求: 远程下载,减少步骤
