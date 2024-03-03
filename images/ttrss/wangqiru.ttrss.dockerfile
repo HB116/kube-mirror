@@ -1,0 +1,1 @@
+FROM wangqiru/ttrss:latest
